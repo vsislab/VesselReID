@@ -25,4 +25,13 @@ The needed file titled 'VesselReID.json' can only be obtained by email.
 If you find VesselReID Dataset useful in your work, please cite our paper:
 
 ```
+@ARTICLE{10046401,
+  author={Zhang, Qian and Zhang, Mingxin and Liu, Jinghe and He, Xuanyu and Song, Ran and Zhang, Wei},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Unsupervised Maritime Vessel Re-Identification With Multi-Level Contrastive Learning}, 
+  year={2023},
+  volume={24},
+  number={5},
+  pages={5406-5418},
+  doi={10.1109/TITS.2023.3243591}}
 ```
