@@ -6,10 +6,7 @@ Following the normal settings in most popular re-ID datasets, we split the entir
 See more details in our paper.
 
 # 2. Dataset Availability
-To encourage the research in terms of vessel re-identification, we are pleased to provide the VesselReID dataset according to your request. 
-If you want to use our dataset for research, you can contact us via sending an email to *info@vsislab.com*. We will make the dataset available to you by providing the file needed for a download.
-When contacting us, please state your full name and affiliation. 
-We ask for your information only to make sure the dataset is used for non-commercial purposes. 
+To encourage research on vessel re-identification, we are pleased to provide the VesselReID dataset. If you would like to use our dataset for research purposes, please download the usage agreement from [Google Drive](https://docs.google.com/document/d/1R6gymgrg_hEeShVWOguJtsVnQocKIStd/edit?usp=sharing&ouid=109547308967864233071&rtpof=true&sd=true), sign it, and send the signed agreement to info@vsislab.com. Once we receive your signed agreement, we will provide you with the file needed to download the dataset. When contacting us, please state your full name and affiliation. We ask for this information only to ensure that the dataset is used for non-commercial purposes.
 
 # 3. Download
 
